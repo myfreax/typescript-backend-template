@@ -1,5 +1,12 @@
 # typescript-backend-template
-Typescript+Docker+Eslint+Prettier+Jest+Husky+Commitlint+Ts-node+Vscode+CD/CI
+Typescript+Docker+Eslint+Prettier+Jest+Husky+Commitlint+Ts-node+Vscode+ts-node-dev+CD/CI
+
+<p>
+  <a href="https://circleci.com/gh/huangyanxiong01/typescript-backend-template"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg"></a>
+  <a href="https://github.com/huangyanxiong01/nest-starter/actions/workflows/test.yml"><img src="https://github.com/huangyanxiong01/typescript-backend-template/actions/workflows/test.yml/badge.svg"></a>
+  <a href="https://github.com/huangyanxiong01/typescript-backend-template/actions/workflows/e2e.yml"><img src="https://github.com/huangyanxiong01/typescript-backend-template/actions/workflows/e2e.yml/badge.svg"></a>
+  <a href="https://app.codecov.io/gh/huangyanxiong01/typescript-backend-template"><img class="notice-badge" src="https://codecov.io/gh/huangyanxiong01/typescript-backend-template/branch/main/graphs/badge.svg?branch=main" alt="Badge"></a>
+</p>
 
 Every time you create a project, you have to configure various tools. This will be a waste of our time. We will do this with a template to solve this problem. Congratulations on finding the project template you want.
 
