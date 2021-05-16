@@ -1,0 +1,15 @@
+on: ['push', 'pull_request']
+
+name: e2e
+
+jobs:
+  test:
+    name: e2e
+    runs-on: ubuntu-20.04
+    container: node:14
+    steps:
+      - uses: actions/checkout@v2
+      - name: yarn test:e2e
+        run: |
+          yarn install
+          yarn test:e2e

@@ -1,0 +1,24 @@
+on: ['push', 'pull_request']
+
+name: test
+
+jobs:
+  test:
+    name: test
+    runs-on: ubuntu-20.04
+    container: node:14
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate coverage report
+        run: |
+          yarn install
+          yarn test:cov
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v1
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }} # not required for public repos
+          directory: ./coverage/
+          flags: unittests # optional
+          name: codecov-umbrella # optional
+          fail_ci_if_error: true # optional (default = false)
+          verbose: true # optional (default = false)
