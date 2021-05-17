@@ -12,7 +12,7 @@
     "target": "es5",
     "sourceMap": true,
     "outDir": "./dist",
-    "baseUrl": "./",
+    "baseUrl": "./src",
     "incremental": true
   }
 }
