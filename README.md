@@ -13,9 +13,21 @@ Every time you create a project, you have to configure various tools. This will 
 ## How use this template with your project?
 click above `Use this template` button, create new fork your github.Then git clone your local host
 
-```
+```bash
 git clone your-github-repo
 yarn install
+```
+## Development Mode
+It restarts target node process when any of required files changes
+
+```bash
+yarn start:dev
+```
+
+## Test And E2E
+```bash
+yarn test
+yarn test:e2e
 ```
 
 ## Typescript
