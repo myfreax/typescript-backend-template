@@ -11,7 +11,7 @@ Typescript+Docker+Eslint+Prettier+Jest+Husky+Commitlint+Ts-node+Vscode+ts-node-d
 Every time you create a project, you have to configure various tools. This will be a waste of our time. We will do this with a template to solve this problem. Congratulations on finding the project template you want.
 
 ## How use this template with your project?
-click above `Use this template` button, create new fork your github.Then git clone your local host
+click above `Use this template` button, create new fork to your github.Then git clone your local host. You can direct clone this repo to your local host
 
 ```bash
 git clone your-github-repo
