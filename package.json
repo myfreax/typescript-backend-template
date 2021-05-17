@@ -1,10 +1,10 @@
 {
-  "name": "aws-serverless-apollo-graphql",
+  "name": "typescript-backend-template",
   "version": "0.0.1",
   "main": "src/main.ts",
   "repository": "git@github.com:huangyanxiong01/typescript-backend-template.git",
   "author": "Freax <huangyanxiong2013@gmail.com>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "scripts": {
     "ts": "ts-node --files",
     "start": "yarn ts src/main.ts",
