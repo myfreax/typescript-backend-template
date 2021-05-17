@@ -31,7 +31,6 @@
           "ts-node/register"
       ],
       "args": [
-        "--files",
           "${workspaceFolder}/src/main.ts",
       ],
       "env": { "TS_NODE_PROJECT": "tsconfig.json" }
