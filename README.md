@@ -17,6 +17,7 @@ click above `Use this template` button, create new fork your github.Then git clo
 git clone your-github-repo
 yarn install
 ```
+
 ## Development Mode
 It restarts target node process when any of required files changes
 
@@ -28,6 +29,11 @@ yarn start:dev
 ```bash
 yarn test
 yarn test:e2e
+```
+
+## Only run specify file
+```bash
+yarn ts src/main.ts
 ```
 
 ## Typescript
