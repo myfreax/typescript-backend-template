@@ -14,10 +14,6 @@ describe('Controller (e2e)', () => {
   });
 
   it('/ (GET)', (done) => {
-    return request(server)
-      .get('/')
-      .expect(200)
-      .expect('Hello World!')
-      .end(done);
+    return request(server).get('/').expect(200).expect('Hello World').end(done);
   });
 });
