@@ -110,10 +110,9 @@ It JIT transforms TypeScript into JavaScript, enabling you to directly execute T
 - Compatible with pre-compilation for production
 
 ## Vscode
-We recommend installing plugins
+We recommend install extensions
 - [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-- [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 - [Jest Runner](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
