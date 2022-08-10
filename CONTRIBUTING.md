@@ -1,7 +1,7 @@
 # Contribution Guide
 
-If you have any comment or advice, please report your [issue](https://github.com/myfreax/nest-starter/issues),
-or make any change as you wish and submit a [PR](https://github.com/myfreax/nest-starter/pulls).
+If you have any comment or advice, please report your [issue](https://github.com/myfreax/typescript-backend-template/issues),
+or make any change as you wish and submit a [PR](https://github.com/myfreax/typescript-backend-template/pulls).
 
 ## Reporting New Issues
 
@@ -15,7 +15,7 @@ We will confirm the purpose of the issue, replace more accurate tags for it, ide
 
 ### Pull Request Guide
 
-We use automated test with husk. The test auto runing When you push your code remote repo. If your modification pass the tests, congradulations it's time to push your work back to us.Then you can create a Pull Request at [nest-starter](https://github.com/myfreax/nest-starter/pulls)
+We use automated test with husk. The test auto runing When you push your code remote repo. If your modification pass the tests, congradulations it's time to push your work back to us.Then you can create a Pull Request at [typescript-backend-template](https://github.com/myfreax/typescript-backend-template/pulls)
 
 ### Style Guide
 

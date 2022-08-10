@@ -2,8 +2,8 @@
 Typescript+Docker+Eslint+Prettier+Jest+Husky+Commitlint+Ts-node+Vscode+ts-node-dev+CD/CI
 
 <p>
-  <a href="https://circleci.com/gh/myfreax/nest-starter"><img src="https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg"></a>
-  <a href="https://github.com/myfreax/nest-starter/actions/workflows/test.yml"><img src="https://github.com/myfreax/typescript-backend-template/actions/workflows/test.yml/badge.svg"></a>
+  <a href="https://circleci.com/gh/myfreax/typescript-backend-template"><img src="https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg"></a>
+  <a href="https://github.com/myfreax/typescript-backend-template/actions/workflows/test.yml"><img src="https://github.com/myfreax/typescript-backend-template/actions/workflows/test.yml/badge.svg"></a>
   <a href="https://github.com/myfreax/typescript-backend-template/actions/workflows/e2e.yml"><img src="https://github.com/myfreax/typescript-backend-template/actions/workflows/e2e.yml/badge.svg"></a>
   <a href="https://app.codecov.io/gh/myfreax/typescript-backend-template"><img class="notice-badge" src="https://codecov.io/gh/myfreax/typescript-backend-template/branch/main/graphs/badge.svg?branch=main" alt="Badge"></a>
 </p>
