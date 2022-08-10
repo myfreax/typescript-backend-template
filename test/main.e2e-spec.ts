@@ -13,7 +13,7 @@ describe('Controller (e2e)', () => {
     server.close();
   });
 
-  it('/ (GET)', (done) => {
-    return request(server).get('/').expect(200).expect('Hello World').end(done);
+  it('/ (GET)', () => {
+    return request(server).get('/').expect(200).expect('Hello World');
   });
 });
