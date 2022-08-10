@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "main": "src/main.ts",
   "repository": "git@github.com:myfreax/typescript-backend-template.git",
-  "author": "Freax <huangyanxiong2013@gmail.com>",
+  "home":"https://www.myfreax.com",
+  "author": "myfreax <web@myfreax.com>",
   "license": "Apache-2.0",
   "scripts": {
     "ts": "ts-node --files",
